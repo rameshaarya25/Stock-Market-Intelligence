@@ -1,5 +1,5 @@
 # Stock-Market-Intelligence
-Problem Statement:Investors often struggle to interpret raw stock prices. 
+Problem Statement:Investors often struggle to interpret raw stock prices.
 This system converts raw market data into meaningful indicators and insights, helping users understand trends, momentum, risk, and performance more easily.
 
 ~The project demonstrates:
